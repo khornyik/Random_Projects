@@ -1,4 +1,4 @@
-This is a repository for keeping my random projects involving deep learning with pytorch. 
+This is a repository for keeping my random projects. 
 
 My larger projects will be found in separate repositories. 
 
